@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="72mm"
-   height="54mm"
-   viewBox="0 0 72 54"
+   width="140mm"
+   height="110mm"
+   viewBox="0 0 140 110"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="OpenSouth.svg"
+   sodipodi:docname="OpenSouth-fonts.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,12 +23,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0535659"
-     inkscape:cx="118.57423"
-     inkscape:cy="148.76562"
+     inkscape:zoom="1.026783"
+     inkscape:cx="259.54852"
+     inkscape:cy="195.27009"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -38,61 +38,58 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-55.381601,-61.834824)">
+     transform="translate(8.8753976,-7.7200651)">
     <g
-       id="g4"
-       transform="translate(2.440524,1.9312726)">
+       id="g1"
+       transform="translate(2.8809613,3.244244)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;fill:#bf0d3e;fill-opacity:1;stroke-width:0.264583"
-         x="95.020096"
-         y="105.00163"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;line-height:1.25;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;fill:#bf0d3e;fill-opacity:1;stroke-width:0.264583"
+         x="70.401764"
+         y="97.91404"
          id="text1"><tspan
            sodipodi:role="line"
            id="tspan1"
-           x="95.020096"
-           y="105.00163"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#bf0d3e;fill-opacity:1;stroke-width:0.264583">South</tspan></text>
+           x="70.401764"
+           y="97.91404"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#bf0d3e;fill-opacity:1;stroke-width:0.264583">South</tspan></text>
       <g
-         id="g3">
-        <g
-           id="group-R5"
-           transform="matrix(0.04917291,0,0,0.04917291,54.201444,60.654936)"
-           style="fill:#bf0d3e;fill-opacity:1">
-          <path
-             id="path2"
-             d="m 652.121,1569.44 c 0.707,-501.73 403.529,-905.741 896.959,-915.6 505.42,-10.102 934.39,394.15 933.75,916.1 -0.63,511.95 -411.05,906.75 -899.67,914.52 -518.05,8.25 -930.683,-410.51 -931.039,-915.02 z M 1493.57,180 c -17.77,2.441 -35.48,5.512 -53.33,7.23 -307.98,29.668 -577.228,148.008 -805.83,356.09 -234.023,213.02 -382.785,476.15 -433.437,788.32 -74.004,456.07 47.949,857.34 364.238,1195.13 209.883,224.16 470.049,360.95 772.839,410.94 324.5,53.57 631.53,-1.59 918.54,-163.73 5.03,-2.84 10.15,-5.52 17.02,-9.25 0.72,3.73 1.54,5.95 1.54,8.18 -0.17,220.4 3.85,440.91 -1.61,661.19 -8.23,332.06 -263.01,615.47 -591.74,666.91 -385.03,60.25 -746.351,-199.59 -806.163,-583.51 -11.348,-72.83 -7.039,-148.11 -9.699,-222.28 -0.586,-16.28 -0.086,-32.6 -0.086,-49.97 -158.024,0 -314.27,0 -470.739,0 -0.851,2.1 -2.183,3.85 -2.187,5.6 -0.117,106.48 -3.774,213.11 11.558,319.02 29.422,203.25 105.27,387.42 230.946,549.84 175.531,226.87 403.58,373.05 683.94,435.43 50.47,11.23 102.46,15.63 153.73,23.31 4.27,0.64 8.39,2.3 12.57,3.49 59.22,0 118.44,0 177.66,0 24.19,-3.72 48.35,-7.64 72.58,-11.14 506.64,-73.2 903.55,-457.44 993.29,-964.24 11.4,-64.38 17.3,-130.57 17.6,-195.96 1.66,-362.53 0.67,-725.08 1.29,-1087.61 0.02,-14.19 4.36,-30.09 11.58,-42.3 102.41,-173.38 167.74,-359.42 187.01,-560.01 42.52,-442.54 -92.1,-824.239 -405.76,-1138.95 -214.51,-215.242 -475.9,-342.57 -777.17,-386.14 -38.31,-5.539 -77.1,-7.781 -115.64,-11.789 -4.23,-0.442 -8.28,-2.492 -12.41,-3.801 -47.38,0 -94.76,0 -142.13,0"
-             style="fill:#bf0d3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="matrix(0.13333333,0,0,-0.13333333,0,634.92)" />
-          <path
-             id="path3"
-             d="m 1571.85,1175.42 c -214.11,0.06 -389.95,174.35 -389.27,389 0.68,214.83 168.55,390.08 389.97,389.89 221.8,-0.19 388.01,-176.42 389.19,-388.63 1.19,-215.2 -174.65,-390.33 -389.89,-390.26"
-             style="fill:#bf0d3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="matrix(0.13333333,0,0,-0.13333333,0,634.92)" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
-           x="99.145271"
-           y="89.934509"
-           id="text2"><tspan
-             sodipodi:role="line"
-             id="tspan2"
-             x="99.145271"
-             y="89.934509"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00205b;fill-opacity:1;stroke-width:0.264583">PEN</tspan></text>
+         id="group-R5"
+         transform="matrix(0.09834582,0,0,0.09834582,-11.235712,5.3602884)"
+         style="fill:#bf0d3e;fill-opacity:1">
+        <path
+           id="path2"
+           d="m 652.121,1569.44 c 0.707,-501.73 403.529,-905.741 896.959,-915.6 505.42,-10.102 934.39,394.15 933.75,916.1 -0.63,511.95 -411.05,906.75 -899.67,914.52 -518.05,8.25 -930.683,-410.51 -931.039,-915.02 z M 1493.57,180 c -17.77,2.441 -35.48,5.512 -53.33,7.23 -307.98,29.668 -577.228,148.008 -805.83,356.09 -234.023,213.02 -382.785,476.15 -433.437,788.32 -74.004,456.07 47.949,857.34 364.238,1195.13 209.883,224.16 470.049,360.95 772.839,410.94 324.5,53.57 631.53,-1.59 918.54,-163.73 5.03,-2.84 10.15,-5.52 17.02,-9.25 0.72,3.73 1.54,5.95 1.54,8.18 -0.17,220.4 3.85,440.91 -1.61,661.19 -8.23,332.06 -263.01,615.47 -591.74,666.91 -385.03,60.25 -746.351,-199.59 -806.163,-583.51 -11.348,-72.83 -7.039,-148.11 -9.699,-222.28 -0.586,-16.28 -0.086,-32.6 -0.086,-49.97 -158.024,0 -314.27,0 -470.739,0 -0.851,2.1 -2.183,3.85 -2.187,5.6 -0.117,106.48 -3.774,213.11 11.558,319.02 29.422,203.25 105.27,387.42 230.946,549.84 175.531,226.87 403.58,373.05 683.94,435.43 50.47,11.23 102.46,15.63 153.73,23.31 4.27,0.64 8.39,2.3 12.57,3.49 59.22,0 118.44,0 177.66,0 24.19,-3.72 48.35,-7.64 72.58,-11.14 506.64,-73.2 903.55,-457.44 993.29,-964.24 11.4,-64.38 17.3,-130.57 17.6,-195.96 1.66,-362.53 0.67,-725.08 1.29,-1087.61 0.02,-14.19 4.36,-30.09 11.58,-42.3 102.41,-173.38 167.74,-359.42 187.01,-560.01 42.52,-442.54 -92.1,-824.239 -405.76,-1138.95 -214.51,-215.242 -475.9,-342.57 -777.17,-386.14 -38.31,-5.539 -77.1,-7.781 -115.64,-11.789 -4.23,-0.442 -8.28,-2.492 -12.41,-3.801 -47.38,0 -94.76,0 -142.13,0"
+           style="fill:#bf0d3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0.13333333,0,0,-0.13333333,0,634.92)" />
+        <path
+           id="path3"
+           d="m 1571.85,1175.42 c -214.11,0.06 -389.95,174.35 -389.27,389 0.68,214.83 168.55,390.08 389.97,389.89 221.8,-0.19 388.01,-176.42 389.19,-388.63 1.19,-215.2 -174.65,-390.33 -389.89,-390.26"
+           style="fill:#bf0d3e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           transform="matrix(0.13333333,0,0,-0.13333333,0,634.92)" />
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
-         x="88.917793"
-         y="111.03671"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
+         x="78.652115"
+         y="65.441719"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="78.652115"
+           y="65.441719"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Raleway;-inkscape-font-specification:'Raleway, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00205b;fill-opacity:1;stroke-width:0.264583">PEN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;text-align:center;text-anchor:middle;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
+         x="58.197071"
+         y="109.36044"
          id="text3"><tspan
            sodipodi:role="line"
            id="tspan3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
-           x="88.917793"
-           y="111.03671">Faculty Learning Community</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Hepta Slab';-inkscape-font-specification:'Hepta Slab, @wght=400';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 400;fill:#00205b;fill-opacity:1;stroke-width:0.264583"
+           x="58.197075"
+           y="109.36044">Faculty Learning Community</tspan></text>
     </g>
   </g>
 </svg>
